@@ -1,1 +1,23 @@
 # Tugas3
+1.a.https://github.com/siska1/Tugas3/blob/master/ArrayListString.Java
+1.b.https://github.com/siska1/Tugas3/blob/master/ArrayListInteger.Java
+1.c.https://github.com/siska1/Tugas3/blob/master/ArrayListFloat.Java
+1.d.https://github.com/siska1/Tugas3/blob/master/ArrayListDouble.Java
+1.e.https://github.com/siska1/Tugas3/blob/master/ArrayListObject.Java
+    https://github.com/siska1/Tugas3/blob/master/Mahasiswa.Java
+1.f.https://github.com/siska1/Tugas3/blob/master/StackString%20.Java
+    https://github.com/siska1/Tugas3/blob/master/MainStackString.java
+1.g.https://github.com/siska1/Tugas3/blob/master/StackDouble.Java
+    https://github.com/siska1/Tugas3/blob/master/MainStackDouble.java
+1.h.https://github.com/siska1/Tugas3/blob/master/StackFloat.Java
+    https://github.com/siska1/Tugas3/blob/master/MainStackFloat.java
+1.i.https://github.com/siska1/Tugas3/blob/master/QueueString.Java
+    https://github.com/siska1/Tugas3/blob/master/MainQueueString.java
+1.j.https://github.com/siska1/Tugas3/blob/master/QueueDouble.java
+    https://github.com/siska1/Tugas3/blob/master/MainQueueDouble.Java
+1.k.https://github.com/siska1/Tugas3/blob/master/QueueFloat.java
+    https://github.com/siska1/Tugas3/blob/master/MainQueueFloat.java
+1.l.https://github.com/siska1/Tugas3/blob/master/StackGeneric.Java
+    https://github.com/siska1/Tugas3/blob/master/MainStackGeneric.java
+1.m.https://github.com/siska1/Tugas3/blob/master/QueueGeneric.Java
+    https://github.com/siska1/Tugas3/blob/master/MainQueueGeneric.java
